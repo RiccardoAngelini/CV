@@ -1,4 +1,7 @@
-# Persona
+# Curriculum Vitae
   NOME 
   COGNOME 
-  PROFESSIONE
+  INDIRIZZO
+  TELEFONO
+  EMAIL
+  SKILLS
